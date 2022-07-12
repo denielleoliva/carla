@@ -1,6 +1,6 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "4.26",
+	"EngineAssociation": "4.24",
 	"Category": "",
 	"Description": "",
 	"Modules": [
@@ -121,6 +121,10 @@
 		},
 		{
 			"Name": "EditorScriptingUtilities",
+			"Enabled": true
+		},
+		{
+			"Name": "UE4Duino",
 			"Enabled": true
 		}
 	]
